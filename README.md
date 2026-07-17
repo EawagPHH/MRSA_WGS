@@ -1,4 +1,4 @@
-# Genomic insights into methicillin-resistant *Staphylococcus aureus* from Swiss wastewater and clinical samples
+# Genomic insights into methicillin-resistant *Staphylococcus aureus* from Swiss wastewater and clinical samples 
 
 This repository contains the analysis code and the wastewater/genomic data underlying the manuscript "Genomic insights into methicillin-resistant *Staphylococcus aureus* from Swiss wastewater and clinical samples" (Kamer, Conforti, et al.).
 
