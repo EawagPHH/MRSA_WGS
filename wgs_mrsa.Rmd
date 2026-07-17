@@ -1,6 +1,6 @@
 ---
 title: "Whole genome sequencing of methicillin-resistant <i>Staphylococcus aureus<i> in wastewater and clinical samples
-"
+" 
 author: "Julia Kamer and Sheena Conforti"
 date: "`r Sys.Date()`"
 output:
